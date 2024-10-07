@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello world !
 
-<!--
-**chl-rlt/chl-rlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Chloé Renault, je suis Développeuse Full Stack Typescript.  
+Stack favorite du moment : React / Typescipt / Node / Fastify ✨
 
-Here are some ideas to get you started:
+En 2018, j'ai découvert que mes journées pouvaient être beaucoup plus fun et stimulantes quand j'ai codé mes premiers projets dans le cadre de mon master. Mon premier coup de coeur a été tourné vers le développement d'interfaces et au fur à mesure j'ai eu envie de comprendre et maitriser davantage ce qui se passé derrière, ce qui me plait c'est de pourvoir créer un site ou une app de A à Z.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aujourd'hui, je travaille sur des projets divers pour l'entreprise ACTA DS, avec qui je collabore depuis 2021.   
+
+Quand je ne suis pas sur l'ordinateur, je mange, je passe du temps avec mes amis et mon chat 🐈, je cours ou je regarde des séries.
+
+## 🔧 Technologies & Outils
+### 💻 Langages & Systèmes d'exploitation utilisés
+![](https://img.shields.io/badge/Code-JavaScript-6e67b6.svg?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-TypeScript-6e67b6.svg?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-JSON-6e67b6.svg?style=flat&logo=json&logoColor=white)
+![](https://img.shields.io/badge/Code-Docker-6e67b6.svg?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6366f1)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6366f1)
+
+### 📘 Frameworks & Librairies utilisés
+![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=6366f1)
+![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=6366F1)
+![](https://img.shields.io/badge/Library-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=6366F1)
+
+### 💽 Logiciels utilisés
+![](https://img.shields.io/badge/Software-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6366F1)
+![](https://img.shields.io/badge/Software-Git-informational?style=flat&logo=git&logoColor=white&color=6366F1)
+![](https://img.shields.io/badge/Software-Github-informational?style=flat&logo=github&logoColor=white&color=6366F1)
+![](https://img.shields.io/badge/Software-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=6366F1)

@@ -1,7 +1,9 @@
-# Hello world !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hello+world+%F0%9F%91%8B+!+;Welcome+)](https://git.io/typing-svg)
 
-Je m'appelle Chloé Renault, je suis Développeuse Full Stack Typescript.  
-Stack favorite du moment : React / Typescipt / Node / Fastify ✨
+Hi 👋
+
+Je m'appelle Chloé Renault, Développeuse Full Stack TypeScript.
+Ma stack de prédilection du moment : React / TypeScript / Node.js / Fastify ✨
 
 En 2018, j'ai découvert que mes journées pouvaient être beaucoup plus fun et stimulantes quand j'ai codé mes premiers projets dans le cadre de mon master. Mon premier coup de coeur a été tourné vers le développement d'interfaces et au fur à mesure j'ai eu envie de comprendre et maitriser davantage ce qui se passé derrière, ce qui me plait c'est de pourvoir créer un site ou une app de A à Z.
 

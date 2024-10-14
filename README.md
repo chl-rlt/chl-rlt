@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B995F6&center=true&vCenter=true&width=835&lines=Hey+%F0%9F%91%8B+Je+suis+Chlo%C3%A9+!+;Ravie+de+vous+rencontrer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B995F6&center=true&vCenter=true&width=1200&lines=Hey+%F0%9F%91%8B+Je+suis+Chlo%C3%A9+!+;Ravie+de+vous+rencontrer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+  
 Salut !   
 
 Moi c'est Chloé Renault, Développeuse Full Stack TypeScript.  
@@ -13,21 +12,20 @@ Aujourd'hui, je travaille sur des projets divers pour l'entreprise ACTA DS, avec
 Quand je ne suis pas sur l'ordinateur, je mange, je passe du temps avec mes amis et mon chat 🐈, je cours ou je regarde des séries.
 
 ## 🔧 Technologies & Outils
-### 💻 Langages & Systèmes d'exploitation utilisés
-![](https://img.shields.io/badge/Code-JavaScript-6e67b6.svg?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-TypeScript-6e67b6.svg?style=flat&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Code-JSON-6e67b6.svg?style=flat&logo=json&logoColor=white)
-![](https://img.shields.io/badge/Code-Docker-6e67b6.svg?style=flat&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6366f1)
+### 💻 Langages utilisés
+ <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+   
 
 ### 📘 Frameworks & Librairies utilisés
-![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=white&color=6366f1)
-![](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=6366F1)
-![](https://img.shields.io/badge/Library-Leaflet-informational?style=flat&logo=leaflet&logoColor=white&color=6366F1)
+ <p>
+      <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  </p>
 
-### 💽 Logiciels utilisés
-![](https://img.shields.io/badge/Software-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6366F1)
-![](https://img.shields.io/badge/Software-Git-informational?style=flat&logo=git&logoColor=white&color=6366F1)
-![](https://img.shields.io/badge/Software-Github-informational?style=flat&logo=github&logoColor=white&color=6366F1)
-![](https://img.shields.io/badge/Software-Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=6366F1)
+### 💽 Outils utilisés
+ <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      
+     

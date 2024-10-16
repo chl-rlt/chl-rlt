@@ -5,41 +5,37 @@
   </a>
 </h1>
 
-### Salut à tous ! 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-986DFF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloernlt/)
+#### Salut ! Moi c’est Chloé, Développeuse Full Stack spécialisée en TypeScript.  
+
+- 🔭 Je travaille actuellement sur **[Chloe_Portfolio](https://chloe-portfolio-theta.vercel.app/)**.
+- 🌱 Ma lecture du moment **Les Piliers de la Terre**.
+- 💬 Parlez moi de **React, Typescript, Node.JS**.
+- 📫 Comment me contacter:   [![Linkedin](https://img.shields.io/badge/LinkedIn-986DFF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloernlt/)
 [![Email](https://img.shields.io/badge/Email-986DFF?style=flat-square&logo=gmail&logoColor=white)](mailto:renaultchloe7@gmail.com)
-  
-Moi c’est Chloé, Développeuse Full Stack spécialisée en TypeScript.  
-Ma stack favorite du moment : React, Node.js, TypeScript et Fastify. 🚀 
+- ⚡ Fun fact: Tous les développeurs aiment Kaamelott.
 
 
 
-
-Mon aventure dans la programmation a débuté en 2018 pendant mon master, quand j'ai réalisé à quel point mes journées devenaient plus stimulantes en créant quelque chose de nouveau. Mon premier coup de cœur a été pour le développement front-end, mais avec le temps, ma curiosité m'a poussée à explorer et maîtriser également le back-end. Ce qui me passionne, c’est de pouvoir construire des applications complètes, du design d’interface à la logique côté serveur.
-
-Depuis 2021, je collabore sur divers projets avec ACTA DS, où je continue à développer ma passion pour la création d’applications robustes.
-
-Quand je ne code pas, vous me trouverez probablement en train de savourer un bon plat, de passer du temps avec mes amis (et mon chat 🐈), de courir ou de binge-watcher une série.
-
-## 🔧 Technologies & Outils
+#### 🔧 Technologies & Outils
 
 - 🖥 **Frontend:**
 
-  - **Programming:** `Typescript ❤️` • `JavaScript`
-  - **Framework/Library:** `React ❤️` • `VueJS` • `Next.JS`
+  - **Programming:** `Typescript 💜` • `JavaScript`
+  - **Framework/Library:** `React 💜` • `VueJS` • `Next.JS`
   - **UI Toolkit:** `shadcn/ui` • `MUI` • `React Admin` 
   - **Utils:** `TailwindCSS`
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `Node.js` • `JavaScript` • `TypeScript ❤️`
+  - **Programming:** `Node.js` • `JavaScript` • `TypeScript 💜`
   - **Framework:** `Fastify` • `Express.js`
-  - **Databases:** `MySQL` • `PostgreSQL` • `MongoDB`
+  - **DB:** `MySQL` • `PostgreSQL` • `MongoDB`
   - **ORM:** `Prisma`
 
 - 🎡 **Ecosystem:**
+  - **Testing:** `Playwright` • `Cypress`
   - **Version Control:** `Git` • `GitHub` • `Gitlab`
-  - **Project Management:** `Notion ❤️` • `Taiga` • `GitHub Projects` • `Trello`
-  - **IDE:** `VS Code ❤️`
+  - **Project Management:** `Notion 💜` • `Taiga` • `GitHub Projects` • `Trello`
+  - **IDE:** `VS Code 💜`
       
      

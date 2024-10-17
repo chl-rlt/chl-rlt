@@ -7,7 +7,7 @@
 
 #### Hi ! I'm Chloé, Fullstack web developper  
 
-- 🔭 I’m currently working on **[My Portfolio](https://chloe-portfolio-theta.vercel.app/)**.
+- 🔭 I’m currently working on **[My Portfolio](https://chloernlt.com)**.
 - 💬 Ask me about **React, Typescript, Node.JS**.
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-986DFF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chloernlt/)
 [![Email](https://img.shields.io/badge/Email-986DFF?style=flat-square&logo=gmail&logoColor=white)](mailto:renaultchloe7@gmail.com)
